@@ -2,3 +2,6 @@
 	path = home-assistant-polymer
 	url = https://github.com/home-assistant/home-assistant-polymer
 	branch = dev
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dennisbiber/frontend.git
